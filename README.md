@@ -182,3 +182,6 @@ Kartların büyüklükleri pre-defined olan bir enum'da tutulur.
 Kart sadece takım üyelerinden birine atanabilir.
 
 Takım üyeleri daha önceden varsayıla olarak tanımlanmış bir listede olmalı. Struct, class ya da bir koleksiyon kullanılabilir.
+
+-----------------
+Patika.dev Hesabım:https://app.patika.dev/keremcelik
